@@ -1,6 +1,7 @@
 {
   "name": "timeswitch/filament-translatable-enum",
   "description": "Maps enum values to localized strings.",
+  "license": "MIT",
   "authors": [
     {
       "name": "Michael Kroll",
